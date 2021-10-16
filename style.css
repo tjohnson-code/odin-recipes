@@ -1,0 +1,57 @@
+html {
+    background-color:rgb(87, 133, 179);
+}
+
+body {
+    background-color:rgba(14, 129, 129, .5);
+}
+
+.list1{
+    color:rgb(175, 142, 52);
+    background-color: rgba(239, 189, 49, 0.89);
+}
+
+#alfredosmall, #bbqribssmall, #caliburgersmall {
+    width:20px;
+    height:20px;
+}
+
+.recipename {
+color:rgba(231, 189, 49, 0.89);
+}
+
+.recipepic {
+    width:400px;
+    height:300px;
+}
+
+.recipedescrip {
+    color: whitesmoke;
+}
+
+.listname {
+    font-family:fantasy, 'Brush Script MT', cursive, sans-serif;
+    color:midnightblue;
+    text-decoration:underline;
+}
+
+.col-1-2 {
+    float:left;
+    width:50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+p, ul, ol {
+    color: lightyellow;
+}
+
+footer {
+    text-align: center;
+    color:rgb(175, 142, 52);
+    background-color: rgba(239, 189, 49, 0.89);
+}

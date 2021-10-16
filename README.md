@@ -9,3 +9,7 @@ Credit for the California burger recipe and image goes to burgerartist.com
 I may have made some minor tweaks to the recipes, but the majority of credit goes to them.
 
 --tjohnson-code
+
+For V2 - I added div's, id's, and classes, I also styled the website using things I've learned from TOP/knew previously.
+
+--tjohnson-code
